@@ -29,7 +29,7 @@
 
 : Working on :
 --------------->>>>>
-==> LEARNING BUG HUNTING  (UNDER THE GUIDANCE by thedvlprguy)
+==> LEARNING BUG HUNTING  
 
 <img align="right" alt="hacking" width="400" src="https://i.gifer.com/EgUv.gif">
 
